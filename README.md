@@ -3,7 +3,7 @@
 A simple CLI wrapper for crate [base64](https://crates.io/crates/base64)
 
 
-# Installation
+## Installation
 ------------
 
 Install with [Cargo](https://doc.rust-lang.org/cargo/):
@@ -12,9 +12,13 @@ Install with [Cargo](https://doc.rust-lang.org/cargo/):
 cargo install simple-base64-cli
 ```
 
-# Usage
+## Usage
 -----
 
-See `base64 --help` for more information.
+Check
+```bash
+base64 --help
+```
+for detailed information.
 
 `Ctrl+Z` to stop reading from stdin.
