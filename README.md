@@ -9,7 +9,7 @@ A simple CLI wrapper for crate [base64](https://crates.io/crates/base64)
 Install with [Cargo](https://doc.rust-lang.org/cargo/):
 
 ```bash
-cargo install base64_cli
+cargo install simple-base64-cli
 ```
 
 # Usage
