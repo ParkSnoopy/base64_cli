@@ -15,7 +15,7 @@ cargo install simple-base64-cli
 
 Check
 ```bash
-base64 --help
+b64 --help
 ```
 for detailed information.
 
